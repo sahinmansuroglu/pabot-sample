@@ -1,0 +1,1 @@
+pabot --pabotlib --testlevelsplit --verbose .
